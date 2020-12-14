@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
+    "url": "git+https://github.com/kirtimanmishra/NodeJS-Project-Basic.git"
   },
   "author": "net ninja",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-crash-course/issues"
+    "url": "https://github.com/kirtimanmishra/NodeJS-Project-Basic"
   },
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
+  "homepage": "https://github.com/kirtimanmishra/NodeJS-Project-Basic",
   "dependencies": {
     "ejs": "^3.1.2",
     "express": "^4.17.1",
